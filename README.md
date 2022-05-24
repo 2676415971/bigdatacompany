@@ -4,29 +4,29 @@
 
 现在企业工商 线索  2.5亿 还在不断增加
 
-
-
-![](photo\10.jpg)
-
 现在有企业维度  230个维度，目前基本市面上有的维度在这个系统上都有。维度可以不断更新和添加新的维度
 
 现在可以源码 出售。也可以定制相关的功能
 
+<img src="photo/10.jpg" >
 
 
-![](photo\1.png)
 
 
 
-![](photo\2.png)
+<img src="photo/1.png" >
 
-![](photo\3.png)
 
-![](photo\4.png)
 
-![](photo\5.png)
+<img src="photo/2.png" >
 
-![](photo\6.png)
+<img src="photo/3.png" >
 
-![](photo\7.png)
+<img src="photo/4.png" >
+
+<img src="photo/5.png" >
+
+<img src="photo/6.png" >
+
+<img src="photo/7.png" >
 
