@@ -10,10 +10,7 @@
 
 现在可以源码 出售。也可以定制相关的功能
 
-<img src="photo/10.jpg" >
-
-
-
+需要源码的联系 v：saaslc
 
 
 <img src="photo/1.png" >
